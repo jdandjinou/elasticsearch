@@ -19,7 +19,7 @@ nb-configuration.xml
 nbactions.xml
 
 # gradle stuff
-.gradle/
+
 build/
 
 # vscode stuff
